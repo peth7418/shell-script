@@ -1,0 +1,1 @@
+./head.sh; ./body.sh; ./generate-path-name.sh; ./ft.sh
